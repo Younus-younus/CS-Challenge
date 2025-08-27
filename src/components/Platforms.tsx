@@ -17,7 +17,7 @@ const challengeSubmissions: Platform[] = [
     description: 'Interview With Cyber Security Professional',
     color: 'bg-red-500',
     hoverColor: 'hover:bg-red-600',
-  url: 'https://www.linkedin.com/in/younus4webdev/'
+  url: 'https://youtu.be/cYZrI8aCTJk?si=kqBsUyhHZWA0kYZT'
   },
   {
     name: 'Medium',
